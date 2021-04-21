@@ -1,4 +1,4 @@
-![valnoxy Banner](https://valnoxy.wtf/banner.png)
+![valnoxy Banner](https://valnoxy.wtf/banner_v3.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm valnoxy</h2>
 
