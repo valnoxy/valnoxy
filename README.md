@@ -50,5 +50,5 @@
 <a href="https://exploitox.de"><img src="https://img.shields.io/badge/-exploitox.de-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:hey@exploitox.de"><img src="https://img.shields.io/badge/-hey@exploitox.de-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/valnoxy"><img src="https://img.shields.io/badge/-valnoxy_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/valnoxy"><img src="https://img.shields.io/badge/-@valnoxy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/valnoxy"><img src="https://img.shields.io/badge/-valnoxy_-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
