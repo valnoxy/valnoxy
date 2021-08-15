@@ -5,7 +5,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently a student on a grammer school (Oberschule) in Germany.\
 ✍️ &nbsp;In my free time, I pursue UI/UX Design and Software Engineering as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me if you have any question, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at hey@exploitox.de! I'll try to respond as soon as I can.
