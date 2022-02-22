@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 💻 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 ✍️ &nbsp;In my free time, I pursue UI/UX Design and Software Engineering as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me if you have any question, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me if you have any question, or just for some interesting discussion.
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp&logoColor=A8B9CC)&nbsp;
