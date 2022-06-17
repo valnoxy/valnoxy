@@ -1,6 +1,6 @@
 <!-- Header -->
-<p align="center"><img src="https://valnoxy.wtf/banner_v3.png"></p>
-<h1 align="center">Hey there, I'm Jonas! <img src="assets/wink.gif" width="30px"></h1>
+<p align="center"><img src="https://valnoxy.dev/banner_v4.png"></p>
+<h1 align="center">Hey there, I'm Jonas! 👋</h1>
 <p align="center">
   <strong><a href="https://valnoxy.dev">Portfolio</a></strong> |
   <strong><a href="https://twitter.com/valnoxy">Twitter</a></strong> |
@@ -9,7 +9,7 @@
 </p>
 
 <!-- About me -->
-I'm Jonas, a 18 year old guy from Germany, who loves programming. I specialize in developing software for desktops and mobile devices. Besides programming, I have an immense interest in Hacking and Hackintosh (macOS).
+I'm Jonas, a 19 year old guy from Germany, who loves programming. I specialize in developing software for desktops and mobile devices. Besides programming, I have an immense interest in Hacking and Hackintosh (macOS).
 
 ### 👨🏻‍💻 &nbsp;About Me
 💻 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
