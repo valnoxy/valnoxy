@@ -9,7 +9,6 @@
   <a href="https://youtube.com/@valnoxydev"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"></a>
 </p>
 
-<img src="./assets/bar.gif">
 
 <!-- Short introduction -->
 I'm Jonas, a 19 year old guy from Germany, who loves programming. I specialize in developing software for desktops and mobile devices. Besides programming, I have an immense interest in Hacking and Hackintosh (macOS).
