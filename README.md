@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="center"><img src="https://valnoxy.dev/banner_v4.png"></p>
+<p align="center"><img src="https://valnoxy.dev/banner.png"></p>
 <h2 align="center">Hey there, I'm Jonas! 👋</h2>
 <p align="center">
   <a href="https://valnoxy.dev"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAABgAAAAYADwa0LPAAABf0lEQVRIx9WVOU5DMRRFr4MSCQnEBlhBkChgBwwSiCIhTGsACVHShpLAClgAdVhDWkLBJFCgYShpSBEGiUPxH5IJP98OXV7j/33te+377Gdp0MNlgUBB0rKkkqQpSeMGPUk6k1SXVHfOffStDKwA94TjDqj0QzwEHEYQA1x43wdALkYglvwByAGbQMf6ajG2xJIvePNmgDfDyj0TGvI8sLgtG9ayw/FnwEZo2QGBHHBuQ9d++v2klALpaWSBzrkvSUc9uYBbUz+OXXUKR9Gm3aSBbQPHgN1/CgzbtHYa+GrgiP1XAylppHCMGvaaZVHR68sUSeGY6LbIT3LT2lkvcVVJe324NG/tadoO1k39kq4rH7MDkhJzbdBqmkCBpHABbHVhjxlOPQNLwI530fK9TkHFBnWAOa9/MSDyArzbd/Z9IqmKkNSWbd8uwrEfzBLJla95k65s+5MhcmLKtSdUNj9D0cqyJfRk5iWVldSWaf1+MptKnswT59xn9MoHLr4B0lBenC2DL4YAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjItMTItMTFUMTc6MjM6MTMrMDA6MDC0tDf4AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIyLTEyLTExVDE3OjIzOjEzKzAwOjAwxemPRAAAAABJRU5ErkJggg==" alt="Portfolio"></a> 
