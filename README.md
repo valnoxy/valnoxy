@@ -46,3 +46,7 @@ I'm Jonas, a 20 year old guy from Germany, who loves programming. I specialize i
     <img src="https://github-readme-stats.vercel.app/api?username=valnoxy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="valnoxy's Github Stats">
   </span>
 </p>
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/mxbi/mxbi/main/pattern.png');]{x0000}$}
