@@ -11,7 +11,7 @@
 
 
 <!-- Short introduction -->
-I'm Jonas, a 21 year old guy from Germany, who loves programming. I specialize in developing software for desktops and mobile devices. Besides programming, I have an immense interest in Hacking and Hackintosh (macOS).
+I'm Jonas, a 22 year old guy from Germany, who loves programming. I specialize in developing software for desktops and mobile devices. Besides programming, I have an immense interest in Hacking and Hackintosh (macOS).
 
 <img src="./assets/bar.gif">
 
