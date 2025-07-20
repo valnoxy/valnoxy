@@ -36,7 +36,7 @@ I'm Jonas, a 22 year old guy from Germany, who loves programming. I specialize i
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/valnoxy/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://api.exploitox.de/page-views-svg" alt="visitor badge"/></p>
 
 <p align="center">
   <span>
